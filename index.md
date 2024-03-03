@@ -12,10 +12,6 @@
 <hr><hr>
 	<li><font size="4"><a href="./240303.html">《话语的力量》</a></font></li>
 
-</tr>
-<tr>
-	<li><font size="4"><a href="./240303.html">《话语的力量》</a></font></li>
-
 </ul>
 
 <hr><hr>
