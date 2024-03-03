@@ -10,7 +10,7 @@
 <h1>《话语的力量》</h1>
 
 <hr><hr>
-	<li><font size="4"><a href="./240303.html">《话语的力量》</a></font></li>
+	<li><font size="4"><a href="./240303.html">《话语的力量》10 </a></font></li>
 
 </ul>
 
